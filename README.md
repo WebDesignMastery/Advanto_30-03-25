@@ -23,9 +23,7 @@ Real-world web design project
 
 Boost your frontend development skills
 
-Website Preview: 
-
-Source Code: 
+Website Preview: https://webdesignmastery.github.io/Advanto_30-03-25/
 
 🔔 Don't forget to like, comment, and subscribe for more amazing web development tutorials!
 
